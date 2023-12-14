@@ -13,6 +13,9 @@
 # Certification from Freecodecamp
 ![Screenshot (160)](https://github.com/sultanaarbiya/Certificates/assets/115937326/e09685fc-115e-45d3-8a2e-ea385b22743f)
 
+# JavaScript for Begginer's
+![skill](https://github.com/sultanaarbiya/Certificates/assets/115937326/db73fa7d-ba76-4dd5-ba40-5080f85cc43f)
+
 
 # Certificates(Core)
 
@@ -23,3 +26,5 @@
 # Embeedded system
 
 ![WhatsApp Image 2023-11-22 at 8 25 00 AM](https://github.com/sultanaarbiya/Certificates/assets/115937326/ddc136dd-18d6-4558-aa4f-9e302b83c7b4)
+
+
